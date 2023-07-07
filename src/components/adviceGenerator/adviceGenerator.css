@@ -12,7 +12,11 @@
     letter-spacing: 3.457px;
     padding-top: 40px;
 }
-.advice{
+.advice-container {
+    margin: auto;
+    width: 444px;
+}
+.advice {
     display: flex;
     flex-direction: column;
     flex-shrink: 0;

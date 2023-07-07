@@ -33,7 +33,9 @@ const AdviceGenerator = () => {
                     <div key={id}>
                         <h5 className='head'>ADVICE #{id}</h5>
                         <div className='gen'>
+                         <div className='advice-container'>
                           <p className='advice'>{advice}</p>
+                         </div>
                         </div>
                         <img src={mobile} alt="mobile-divider" className='mobile'/>
                         <img src={desktop} alt="desktop-divider" className='desktop' />

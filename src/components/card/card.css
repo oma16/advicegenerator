@@ -1,0 +1,23 @@
+.main{
+    width: 540px;
+    height: 332px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--dark-grayish-blue, #313A48);
+    box-shadow: 30px 50px 80px 0px rgba(0, 0, 0, 0.10);
+    position: relative;
+
+}
+@media only screen and (max-width:430px){
+    .main {
+        width: 343px;
+        height: 315px;
+        border-radius: 10px;
+    }
+}
+@media only screen and (max-width:330px){
+    .main {
+        width: 300px;
+        
+    }
+}

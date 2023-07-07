@@ -10,7 +10,7 @@
     font-weight: 800;
     line-height: normal;
     letter-spacing: 3.457px;
-    padding-top: 50px;
+    padding-top: 40px;
 }
 .advice{
     display: flex;
@@ -33,7 +33,7 @@
 .desktop {
     display: flex;
     justify-content: center;
-    margin: 44px auto;
+    margin: 34px auto;
 }
 .dice {
     position: absolute;

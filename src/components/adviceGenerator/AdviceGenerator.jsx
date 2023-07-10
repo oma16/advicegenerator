@@ -48,7 +48,6 @@ const AdviceGenerator = () => {
                        <img src={dice} alt="dice"  />
             </svg>
     
-            <div className='dice2'></div>
         </Card>
     </div>
   )
